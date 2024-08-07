@@ -47,12 +47,12 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/image2.png" alt="Image description" style="width:50%; height:50%;">
+    <img src="resources/media/image2.PNG" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 ### Question 3 
 
-Write a Java program to Q1 using **[Ternary Operator]{.underline} (?
+Write a Java program to Q1 using **[Ternary Operator](?
 :)** to check if the number is Positive or Negative or Zero.
 
 Save the file inside '**Lab 4**' folder as: **ITxxxxxxxxLab4Q3.java**
