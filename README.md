@@ -3,13 +3,13 @@
   </p>
 
 
-### Question 1A (Tutorial 2 -- Q2)
+### Question 1 (Tutorial 3 -- Q3)
 
-Enter the price of 1kg of rice and the number of kilograms you want to
-buy from the keyboard. Write a Java program to find the amount you have
-to pay.
+Write a Java program to input a number from the keyboard and display
+whether it is Positive or Negative. If user input 0, display number is
+Zero.
 
-Save the file inside '**Lab 3**' folder as: **ITxxxxxxxxLab3Q1A.java**
+Save the file inside '**Lab 4**' folder as: **ITxxxxxxxxLab4Q1.java**
 
 Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 
@@ -19,14 +19,28 @@ Expected Output:
     <img src="resources/media/image1.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
-### Question 1B (Tutorial 2 -- Q2)
+### Question 2 (Tutorial 3 -- Q4)
 
-The supermarket is giving a 10% discount on the total bill.
+Final mark of a module is calculated by considering two components, exam
+marks and lab submission marks. The percentages taken from each
+component as the final mark.
 
-Modify the Java program and find the amount you have to pay after
-considering the discount.
+Write a Java program to:
 
-Save the file inside '**Lab 3**' folder as: **ITxxxxxxxxLab3Q1B.java**
+-   Input the exam marks (given out of 100) and the lab submission marks
+    (given out of 100) from the keyboard
+
+-   Validate the entered marks (should be greater than or equal to 0 and
+    less than or equal to 100)
+
+-   Input the percentage taken from the exam mark and the lab submission
+    mark from the keyboard
+
+-   Validate the values (entered percentages should add to 100)
+
+-   Calculate the final exam marks
+
+Save the file inside '**Lab 4**' folder as: **ITxxxxxxxxLab4Q2.java**
 
 Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 
@@ -36,19 +50,12 @@ Expected Output:
     <img src="resources/media/image2.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
-### Question 2 (Tutorial 2 -- Q3)
+### Question 3 
 
-An employee is paid an additional amount to his monthly salary as OT
-amount.
+Write a Java program to Q1 using **[Ternary Operator]{.underline} (?
+:)** to check if the number is Positive or Negative or Zero.
 
-Write a Java program to input the monthly salary, number of OT hours and
-OT hourly rate from the keyboard to find the total salary.
-
-*OT Amount = OT hours \* OT Hourly Rate*
-
-*Total Salary = Monthly Salary + OT Amount*
-
-Save the file inside '**Lab 3**' folder as: **ITxxxxxxxxLab3Q2.java**
+Save the file inside '**Lab 4**' folder as: **ITxxxxxxxxLab4Q3.java**
 
 Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 
@@ -56,69 +63,6 @@ Expected Output:
 
   <p align="center">
     <img src="resources/media/image3.png" alt="Image description" style="width:50%; height:50%;">
-  </p>
-
-### Question 3 (Tutorial 2 -- Q4)
-
-Write a Java program to enter a rupee amount and print the number of
-5000/=, 1000/=, 500/=, 200/=, 100/=, 50/=, 20/=, 10/=, 5/=, 2/=, 1/=
-notes and coins in that amount.
-
-e.g. Amount = 2754
-
-Your program should print
-
-5000 Notes -- 0
-
-1000 Notes -- 2
-
-500 Notes -- 1
-
-200 Notes -- 1
-
-100 Notes -- 0
-
-50 Notes -- 1
-
-20 Notes -- 0
-
-10 Coins -- 0
-
-05 Coins -- 0
-
-02 Coins -- 2
-
-01 Coins -- 0
-
-Save the file inside '**Lab 3**' folder as: **ITxxxxxxxxLab3Q3.java**
-
-Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
-
-Expected Output:
-
-  <p align="center">
-    <img src="resources/media/image4.png" alt="Image description" style="width:50%; height:50%;">
-  </p>
-
-  
-### Question 4 
-
-Write a Java program that inputs a five-digit number, separates the
-number into its individual digits and prints the digits separated from
-one another by a space.
-
-e.g: Input 52348
-
-Output 5 2 3 4 8
-
-Save the file inside '**Lab 3**' folder as: **ITxxxxxxxxLab3Q4.java**
-
-Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
-
-Expected Output:
-
-  <p align="center">
-    <img src="resources/media/image5.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 
