@@ -1,17 +1,21 @@
 import java.util.Scanner;
 
-	public class IT24100353Lab3Q1A
-	{
-		public static void main(String[]args)
-		{
-		Scanner scanner = new Scanner(System.in);
-		System.out.print("Enter the price of 1kg of rice:");
-		double pricePerKg = scanner.nextDouble();
-		System.out.print("Enter the number of kilograms you want to buy:");
-		double kilograms = scanner.nextDouble();
-		double totalAmount = pricePerKg * kilograms;
-		System.out.println("The total amount is:"+totalAmount);
+public class IT24102244Lab4Q1{
+	public static void main(String[] args){
+		
+		Scanner input = new Scanner(System.in);
+		
+		System.out.print("Enter a number: ");
+		int num = input.nextInt();
+
+		if(num > 0){
+			System.out.println("The number is: Positive");
+		}
+		else if(num < 0){
+			System.out.println("The number is: Negative");
+		}
+		else{	
+			System.out.println("The number is: Zero");
 		}
 	}
-		
-		
+}
